@@ -1,0 +1,23 @@
+.text-area-container {
+    background-color: #e2e8f0;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    width: 100%; 
+
+    box-sizing: border-box;
+  }
+  
+  .text-area-title {
+    font-weight: bold;
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: #2d3748;
+  }
+  
+  .text-area-content {
+    font-size: 1rem;
+    font-family: 'Cambria';
+    color: #4a5568;
+    line-height: 1.6;
+  }
+  
